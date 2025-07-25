@@ -1,4 +1,4 @@
-## Olá eu sou Otavio Rodrigues, programador front end formado em rede de computadores e estudante de computação
+## Olá eu sou Otavio Rodrigues, programador beck - end formado em rede de computadores e estudante de computação
 
 
 
