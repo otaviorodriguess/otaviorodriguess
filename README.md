@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on ITABUS
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JAVA
 <!--
 -->
 <div>
