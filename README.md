@@ -39,8 +39,8 @@ Scripts simples e consultas SQL com MySQL.
 ---
 
 ## 📫 Contato
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: seunome@email.com
+- LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/otavio-rodrigues-bezerra/)
+- Email: otaviorodriguesbezerra71@gmail.com
 
 ---
 
