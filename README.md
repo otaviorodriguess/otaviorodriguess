@@ -1,47 +1,41 @@
-<h1 align="center">👋 Olá! Eu sou o Otávio </h1>
+# Olá, eu sou o Otavio Rodrigues 👋
 
-<p align="center">
-  Entusiasta da tecnologia focado em <strong>desenvolvimento backend com Java</strong><br>
-  Explorando o mundo da programação com dedicação e curiosidade 🚀
-</p>
+Atualmente focado em aprender e desenvolver minhas habilidades em programação, especialmente nas linguagens que mais me interessam.  
+Meu foco é Redes de Computadores e desenvolvimento, explorando sempre novas tecnologias e desafios.
 
----
-
-## 🛠️ Tecnologias em aprendizado:
-- Java ☕
-- Spring Boot 🌱
-- APIs REST
-- MySQL e PostgreSQL 💾
-- Git & GitHub
-- Redes de Computadores 🌐
+🚀 Estou em constante evolução e aberto a projetos e colaborações para crescer cada vez mais.  
 
 ---
 
-## 🚧 Projetos em andamento:
-🔧 [`java-learning`](https://github.com/SEU_USUARIO/java-learning)  
-Repositório com exercícios, anotações e exemplos práticos de Java puro.
+## Sobre mim
 
-🌱 [`spring-boot-api`](https://github.com/SEU_USUARIO/spring-boot-api)  
-Experimentos com criação de APIs REST usando Spring Boot.
-
-💾 [`mysql-scripts`](https://github.com/SEU_USUARIO/mysql-scripts)  
-Scripts simples e consultas SQL com MySQL.
+- 💻 Cursando Redes de Computadores no Ensino Médio (EEEP)  
+- 🛠️ Apaixonado por lógica, programação e tecnologia  
+- 📚 Em processo contínuo de aprendizado nas linguagens que mais me interessam, como Java, Dart e outras  
+- ⚙️ Sempre experimentando projetos pessoais e estudando para evoluir no mundo da programação  
 
 ---
 
-## 📊 GitHub Stats
+## Contato
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark" width="47%" />
-</div>
+- [GitHub](https://github.com/otaviorodriguess)  
+- [LinkedIn](https://www.linkedin.com/in/otavio-rodrigues-bezerra)
 
 ---
 
-## 📫 Contato
-- LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/otavio-rodrigues-bezerra/)
-- Email: otaviorodriguesbezerra71@gmail.com
+## Estatísticas
+
+![Otavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviorodriguess&show_icons=true&theme=radical)
 
 ---
 
-⭐ Se você gosta do que vê por aqui, sinta-se à vontade para seguir ou dar uma estrela nos repositórios!
+## Projetos
+
+Aqui alguns projetos que estou desenvolvendo e estudando:
+
+- [Projeto Exemplo 1](#)  
+- [Projeto Exemplo 2](#)  
+
+---
+
+A jornada é longa, mas estou firme para conquistar meus objetivos! 🚀
