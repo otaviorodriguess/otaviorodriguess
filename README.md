@@ -1,31 +1,47 @@
-## Olá eu sou Otavio Rodrigues, programador beck - end formado em rede de computadores e estudante de computação
+<h1 align="center">👋 Olá! Eu sou o Otávio </h1>
 
+<p align="center">
+  Entusiasta da tecnologia focado em <strong>desenvolvimento backend com Java</strong><br>
+  Explorando o mundo da programação com dedicação e curiosidade 🚀
+</p>
 
+---
 
+## 🛠️ Tecnologias em aprendizado:
+- Java ☕
+- Spring Boot 🌱
+- APIs REST
+- MySQL e PostgreSQL 💾
+- Git & GitHub
+- Redes de Computadores 🌐
 
-- 🔭 I’m currently working on ITABUS
-- 🌱 I’m currently learning JAVA
-<!--
--->
-<div>
-  <a href ="github.com/otaviorodriguess">
-<img height = "180cm" src = "https://github-readme-stats.vercel.app/api?username=otaviorodriguess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-<img height = "180cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=otaviorodriguess&layout=compact&langs_count=16&theme=dracula" />
+---
+
+## 🚧 Projetos em andamento:
+🔧 [`java-learning`](https://github.com/SEU_USUARIO/java-learning)  
+Repositório com exercícios, anotações e exemplos práticos de Java puro.
+
+🌱 [`spring-boot-api`](https://github.com/SEU_USUARIO/spring-boot-api)  
+Experimentos com criação de APIs REST usando Spring Boot.
+
+💾 [`mysql-scripts`](https://github.com/SEU_USUARIO/mysql-scripts)  
+Scripts simples e consultas SQL com MySQL.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark" width="47%" />
 </div>
-    
-##
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
 
-##
-<div> 
+---
 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+## 📫 Contato
+- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- Email: seunome@email.com
 
+---
+
+⭐ Se você gosta do que vê por aqui, sinta-se à vontade para seguir ou dar uma estrela nos repositórios!
