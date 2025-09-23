@@ -33,7 +33,7 @@ Meu foco é Redes de Computadores e desenvolvimento, explorando sempre novas tec
 
 Aqui alguns projetos que estou desenvolvendo e estudando:
 
-- [Projeto Exemplo 1](#)  
+- [Projeto Exemplo 1](https://github.com/otaviorodriguess/GerenciadorDeTarefas.git)  
 - [Projeto Exemplo 2](#)  
 
 ---
