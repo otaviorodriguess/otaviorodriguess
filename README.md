@@ -18,7 +18,7 @@
 <h3 align="center">🚀 Stack Principal</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,linux,maven,postman" />
 </p>
 
 <br>
@@ -27,6 +27,22 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,js,html,css" />
+</p>
+
+<br>
+
+<h3 align="center">📐 Boas práticas</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arquitetura%20em%20Camadas-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOLID-000?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git%20Versionamento-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Organização%20de%20Código-000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Separation%20of%20Concerns-000?style=for-the-badge"/>
 </p>
 
 <br>
