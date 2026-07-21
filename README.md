@@ -14,17 +14,21 @@
   <img src="https://img.shields.io/badge/REST%20API-000?style=for-the-badge"/>
 </p>
 
----
-
-## 👋 About Me
-
-I'm a Full Stack Developer passionate about building complete web applications, from responsive interfaces to robust backend services.
-
-Currently focused on Java, Spring Boot and React, always seeking to write clean, scalable and maintainable code following software engineering best practices.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=otaviorodriguess&style=for-the-badge&color=0e75b6"/>
+</p>
 
 ---
 
-## 🚀 Main Stack
+# 👋 About Me
+
+I'm a Computer Engineering student and Full Stack Developer passionate about creating scalable applications and solving real-world problems through software.
+
+My main focus is Java with Spring Boot on the backend and React on the frontend, always applying software engineering principles, clean architecture and best development practices.
+
+---
+
+# 🚀 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,postgres,mysql,supabase,docker,git,github,maven,linux,postman,vscode,idea" />
@@ -32,7 +36,7 @@ Currently focused on Java, Spring Boot and React, always seeking to write clean,
 
 ---
 
-## 🛠 Currently Learning
+# 📚 Currently Learning
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,kubernetes" />
@@ -40,41 +44,51 @@ Currently focused on Java, Spring Boot and React, always seeking to write clean,
 
 ---
 
-## 🧠 Software Engineering
+# 💡 Engineering Principles
 
-<p align="center">
+<div align="center">
 
 ✔ Clean Code
 
-✔ SOLID Principles
+✔ SOLID
 
-✔ Layered Architecture
-
-✔ RESTful APIs
+✔ REST APIs
 
 ✔ Design Patterns
 
-✔ Git Flow
-
-✔ Separation of Concerns
+✔ Layered Architecture
 
 ✔ Object-Oriented Programming
 
-</p>
+✔ Git Flow
+
+✔ Clean Architecture
+
+</div>
 
 ---
 
-## 📈 GitHub Analytics
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=otaviorodriguess&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviorodriguess&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=otaviorodriguess&theme=tokyonight&no-frame=true&margin-w=15&column=4"/>
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=otaviorodriguess&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviorodriguess&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviorodriguess&theme=tokyo-night&hide_border=true"/>
@@ -82,17 +96,35 @@ Currently focused on Java, Spring Boot and React, always seeking to write clean,
 
 ---
 
-## 🐍 Contribution Snake
+# 👾 Pac-Man Contributions
 
 <p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otaviorodriguess/otaviorodriguess/output/pacman-contribution-graph-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otaviorodriguess/otaviorodriguess/output/pacman-contribution-graph.svg">
+
+<img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/otaviorodriguess/otaviorodriguess/output/pacman-contribution-graph.svg">
+
+</picture>
 </p>
 
 ---
 
-## 🤝 Connect with Me
+# 🐍 Contribution Snake
 
 <p align="center">
+
+<img src="https://raw.githubusercontent.com/otaviorodriguess/otaviorodriguess/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🤝 Connect with Me
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra">
 <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -100,4 +132,5 @@ Currently focused on Java, Spring Boot and React, always seeking to write clean,
 <a href="mailto:otaviorodriguesbezerra71@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
