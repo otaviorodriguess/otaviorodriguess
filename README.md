@@ -19,38 +19,70 @@ com atenção à experiência de uso, à arquitetura e à manutenção do códig
 <tr>
 <td align="center" width="33%">
 <h3>01 · Backend</h3>
-<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java, Spring e Maven" />
+<img src="https://skillicons.dev/icons?i=java,spring,fastapi&theme=dark" alt="Java, Spring e FastAPI" />
 <br /><br />
-<b>Java · Spring Boot · Maven</b><br />
-<sub>APIs REST e arquitetura em camadas</sub>
+<b>Java · Spring Boot</b><br />
+<sub>Python · FastAPI · Maven</sub>
 <br /><br />
 </td>
 <td align="center" width="33%">
 <h3>02 · Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,ts,js&theme=dark" alt="React, TypeScript e JavaScript" />
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind&theme=dark" alt="React, TypeScript e Tailwind CSS" />
 <br /><br />
-<b>React · TypeScript · JavaScript</b><br />
-<sub>Interfaces responsivas com HTML e CSS</sub>
+<b>React · TypeScript · Tailwind</b><br />
+<sub>JavaScript · HTML · CSS · Vite</sub>
 <br /><br />
 </td>
 <td align="center" width="33%">
 <h3>03 · Dados</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" alt="PostgreSQL, MySQL e Supabase" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL e SQLite" />
 <br /><br />
-<b>PostgreSQL · MySQL · Supabase</b><br />
-<sub>Persistência e integração de dados</sub>
+<b>PostgreSQL · MySQL · SQLite</b><br />
+<sub>Supabase · Spring Data JPA · SQLAlchemy</sub>
+<br /><br />
+</td>
+</tr>
+<tr>
+<td align="center">
+<h3>04 · Cloud &amp; Deploy</h3>
+<img src="https://skillicons.dev/icons?i=firebase,vercel,docker&theme=dark" alt="Firebase, Vercel e Docker" />
+<br /><br />
+<b>Firebase · Vercel · Docker</b><br />
+<sub>Serviços, hospedagem e containers</sub>
+<br /><br />
+</td>
+<td align="center">
+<h3>05 · Testes &amp; Qualidade</h3>
+<img src="https://skillicons.dev/icons?i=vitest,postman&theme=dark" alt="Vitest e Postman" />
+<br /><br />
+<b>Playwright · Vitest · Postman</b><br />
+<sub>ESLint · Prettier</sub>
+<br /><br />
+</td>
+<td align="center">
+<h3>06 · Ferramentas</h3>
+<img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" alt="Git, GitHub e Linux" />
+<br /><br />
+<b>Git · GitHub · Linux</b><br />
+<sub>VS Code · IntelliJ IDEA</sub>
 <br /><br />
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>↗ Veja as ferramentas que fazem parte do meu dia a dia</b></summary>
-<br />
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,idea&theme=dark&perline=7" alt="Docker, Git, GitHub, Linux, Postman, VS Code e IntelliJ IDEA" />
-</p>
-<p align="center">Docker · Git · GitHub · Linux · Postman · VS Code · IntelliJ IDEA</p>
+<summary><b>↗ Veja essas tecnologias em projetos reais</b></summary>
+
+| Projeto | Tecnologias utilizadas |
+| :--- | :--- |
+| [BelaHora](https://github.com/otaviorodriguess/belahora) | React, TypeScript, Tailwind CSS, Vite, Firebase, Vercel, PWA, Playwright e Vitest |
+| [Skill Map](https://github.com/otaviorodriguess/skill-map) | Python, FastAPI, SQLAlchemy e Pydantic |
+| [Fluxo Financeiro](https://github.com/otaviorodriguess/fluxo-financeiro) | Spring Boot, Spring Security, JWT, Spring Data JPA e PostgreSQL |
+| [Spring AI Chatbot](https://github.com/otaviorodriguess/spring-ai-chatbot) | Spring AI, integração com OpenAI e Thymeleaf |
+| [Eclipse of Eternia](https://github.com/otaviorodriguess/eclipse-of-eternia) | React, TypeScript, Phaser e Spring Boot |
+| [RocketScope](https://github.com/otaviorodriguess/rocketscope-fullstack) | React, Leaflet, Spring Boot e Caffeine |
+| [Event API](https://github.com/otaviorodriguess/event-api-javalin) | Java, Javalin, SQLite e Jackson |
+
 </details>
 
 <br />
