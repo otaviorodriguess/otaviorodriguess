@@ -1,34 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Otávio Rodrigues, Full Stack Developer">
-  <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b2e"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#64ffda"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".06"/></pattern>
-  </defs>
-  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1198" height="358" rx="19" fill="none" stroke="#253248"/>
-  <path d="M40 2h1120" stroke="url(#accent)" stroke-width="3"/>
-  <g font-family="Segoe UI,Arial,sans-serif">
-    <circle cx="54" cy="62" r="5" fill="#64ffda"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
-    <text x="70" y="67" font-size="13" font-weight="600" letter-spacing="3" fill="#64ffda">CODE. BUILD. EVOLVE.</text>
-    <text x="48" y="146" fill="#f1f5f9" font-size="55" font-weight="700" letter-spacing="-2">Otávio Rodrigues</text>
-    <text x="50" y="190" fill="#b9c6d8" font-size="25">Full Stack Developer</text>
-    <rect x="50" y="216" width="44" height="3" rx="1.5" fill="#64ffda"/>
-    <text x="50" y="256" fill="#93a4bd" font-size="16">Da experiência na interface à arquitetura do backend.</text>
-    <text x="50" y="309" fill="#64748b" font-size="13" letter-spacing="1">BRASIL  /  ENGENHARIA DA COMPUTAÇÃO</text>
-  </g>
-  <g transform="translate(735 60)">
-    <rect width="415" height="240" rx="12" fill="#0b1220" stroke="#2b3a50"/>
-    <path d="M0 40h415" stroke="#243247"/>
-    <circle cx="20" cy="21" r="5" fill="#fb7185"/><circle cx="38" cy="21" r="5" fill="#fbbf24"/><circle cx="56" cy="21" r="5" fill="#64ffda"/>
-    <g font-family="Consolas,monospace" font-size="15">
-      <text x="280" y="26" fill="#64748b" font-size="12">developer.ts</text>
-      <text x="24" y="78" fill="#a78bfa">const <tspan fill="#e2e8f0">developer = {</tspan></text>
-      <text x="44" y="111" fill="#93c5fd">backend: <tspan fill="#64ffda">["Java", "Spring"],</tspan></text>
-      <text x="44" y="144" fill="#93c5fd">frontend: <tspan fill="#64ffda">["React", "TS"],</tspan></text>
-      <text x="44" y="177" fill="#93c5fd">mindset: <tspan fill="#64ffda">"always learning"</tspan></text>
-      <text x="24" y="210" fill="#e2e8f0">};</text>
-      <rect x="48" y="196" width="8" height="17" fill="#64ffda"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></rect>
-    </g>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="Otávio Rodrigues, desenvolvedor Full Stack">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#142237"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#2dd4bf" stop-opacity=".12"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+</defs>
+<rect x="1" y="1" width="998" height="318" rx="20" fill="url(#bg)" stroke="#2b3b50"/>
+<ellipse cx="450" cy="10" rx="430" ry="300" fill="url(#glow)"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<rect x="40" y="39" width="5" height="18" rx="2" fill="#5eead4"/>
+<text x="57" y="54" font-size="15" font-weight="600" letter-spacing="2" fill="#5eead4">DESENVOLVEDOR FULL STACK</text>
+<text x="38" y="127" font-size="52" font-weight="750" letter-spacing="-2" fill="#f8fafc">Otávio Rodrigues</text>
+<text x="41" y="167" font-size="20" fill="#c2cedd">Interfaces, APIs e o que conecta tudo.</text>
+<g font-size="16" font-weight="600" text-anchor="middle">
+<rect x="40" y="199" width="76" height="34" rx="8" fill="#173735" stroke="#315451"/><text x="78" y="222" fill="#7cebd4">Java</text>
+<rect x="126" y="199" width="131" height="34" rx="8" fill="#173735" stroke="#315451"/><text x="191" y="222" fill="#7cebd4">Spring Boot</text>
+<rect x="267" y="199" width="88" height="34" rx="8" fill="#1b3049" stroke="#35506c"/><text x="311" y="222" fill="#93c5fd">React</text>
+</g>
+<text x="41" y="280" font-size="15" fill="#9caec5">Brasil · Estudante de Engenharia da Computação</text>
+</g>
+<g transform="translate(595 40)">
+<rect width="365" height="240" rx="12" fill="#0b1220" stroke="#334155"/>
+<path d="M0 42h365" stroke="#26364a"/>
+<circle cx="21" cy="21" r="5" fill="#fb7185"/><circle cx="39" cy="21" r="5" fill="#fbbf24"/><circle cx="57" cy="21" r="5" fill="#5eead4"/>
+<g font-family="Consolas,monospace" font-size="17">
+<text x="232" y="26" font-size="13" fill="#94a3b8">developer.ts</text>
+<text x="24" y="79" fill="#c4b5fd">const <tspan fill="#e2e8f0">dev = {</tspan></text>
+<text x="44" y="113" fill="#93c5fd">build: <tspan fill="#5eead4">"full stack",</tspan></text>
+<text x="44" y="147" fill="#93c5fd">care: <tspan fill="#5eead4">"clean code",</tspan></text>
+<text x="44" y="181" fill="#93c5fd">learn: <tspan fill="#5eead4">"every day"</tspan></text>
+<text x="24" y="215" fill="#e2e8f0">};</text>
+<rect x="49" y="200" width="9" height="19" rx="1" fill="#5eead4"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></rect>
+</g>
+</g>
 </svg>

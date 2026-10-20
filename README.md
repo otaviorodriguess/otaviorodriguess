@@ -1,23 +1,17 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Otávio Rodrigues — Full Stack Developer. Java, Spring Boot e React." />
+<img src="./assets/header.svg" width="100%" alt="Otávio Rodrigues — desenvolvedor Full Stack. Java, Spring Boot e React." />
 
-<br />
+<p>
+<a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="./assets/linkedin.svg" width="170" height="44" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:otaviorodriguesbezerra71@gmail.com"><img src="./assets/email.svg" width="170" height="44" alt="Enviar e-mail" /></a>&nbsp;
+<a href="https://github.com/otaviorodriguess?tab=repositories"><img src="./assets/projects.svg" width="170" height="44" alt="Explorar projetos" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="https://img.shields.io/badge/LinkedIn-VAMOS_CONVERSAR-64FFDA?style=for-the-badge&labelColor=111827" alt="Conversar no LinkedIn" /></a>
-<a href="mailto:otaviorodriguesbezerra71@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ENTRE_EM_CONTATO-A78BFA?style=for-the-badge&labelColor=111827" alt="Enviar e-mail" /></a>
-<a href="https://github.com/otaviorodriguess?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-EXPLORAR_PROJETOS-93C5FD?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="Explorar meus projetos" /></a>
-
-<br /><br />
-
-**Interfaces bem cuidadas. APIs bem estruturadas. Código que evolui.**
-
-Desenvolvedor Full Stack no Brasil e estudante de Engenharia da Computação.<br />
-Meu foco é conectar **React** a serviços em **Java e Spring Boot** para construir aplicações completas.
+Construo aplicações completas com **Java, Spring Boot e React**,<br />
+com atenção à experiência de uso, à arquitetura e à manutenção do código.
 
 </div>
-
-<br />
 
 ## 🧩 &nbsp; Meu ecossistema
 
