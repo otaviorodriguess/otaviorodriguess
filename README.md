@@ -2,8 +2,8 @@
 
 <img src="./assets/profile-hero.svg" width="100%" alt="Otávio Rodrigues — desenvolvedor Full Stack. Java, Spring Boot e React." />
 
-<p><br />
-<a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="./assets/linkedin.svg" width="170" height="44" alt="LinkedIn" /></a>&nbsp;
+<p>
+<br /><a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="./assets/linkedin.svg" width="170" height="44" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:otaviorodriguesbezerra71@gmail.com"><img src="./assets/email.svg" width="170" height="44" alt="Enviar e-mail" /></a>&nbsp;
 <a href="https://github.com/otaviorodriguess?tab=repositories"><img src="./assets/projects.svg" width="170" height="44" alt="Explorar projetos" /></a>
 </p>
@@ -63,12 +63,12 @@ com atenção à experiência de uso, à arquitetura e à manutenção do códig
 <br />
 <img src="https://skillicons.dev/icons?i=aws,kubernetes&theme=dark" alt="AWS e Kubernetes" />
 <h3>Aprendendo agora</h3>
-<p><br />AWS &amp; Kubernetes</p>
+<p>AWS &amp; Kubernetes</p>
 </td>
 <td width="70%">
 <h3>Engenharia por trás do código</h3>
-<p><br />Busco escrever código claro, escalável e fácil de manter, aplicando princípios de engenharia de software.</p>
-<p><br /><code>Clean Code</code> <code>SOLID</code> <code>POO</code><br /><br /><code>Design Patterns</code> <code>Git Flow</code></p>
+<p>Busco escrever código claro, escalável e fácil de manter, aplicando princípios de engenharia de software.</p>
+<p><code>Clean Code</code> <code>SOLID</code> <code>POO</code><br /><br /><code>Design Patterns</code> <code>Git Flow</code></p>
 </td>
 </tr>
 </table>
