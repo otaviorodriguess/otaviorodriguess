@@ -1,103 +1,52 @@
-<h1 align="center">Otávio Rodrigues Bezerra</h1>
+<div align="center">
 
-<p align="center">
-  💻 Full Stack Developer <br>
-  🇧🇷 Brazil <br>
-  🎓 Computer Engineering Student
-</p>
+# Otávio Rodrigues Bezerra
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=springboot"/>
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/REST%20API-000?style=for-the-badge"/>
-</p>
+**Desenvolvedor Full Stack · Estudante de Engenharia da Computação**
+
+Construindo aplicações web completas, de interfaces responsivas a serviços de backend.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-rodrigues-bezerra)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:otaviorodriguesbezerra71@gmail.com)
+
+</div>
 
 ---
 
-## 👋 About Me
+### Sobre mim
 
-I'm a Full Stack Developer passionate about building complete web applications, from responsive interfaces to robust backend services.
+Sou desenvolvedor Full Stack no Brasil. Meu foco atual é criar aplicações com **Java, Spring Boot e React**, cuidando tanto da experiência na interface quanto da organização e manutenção do backend.
 
-Currently focused on Java, Spring Boot and React, always seeking to write clean, scalable and maintainable code following software engineering best practices.
+Gosto de aplicar princípios de engenharia de software para escrever código claro, escalável e fácil de evoluir.
 
----
+### Tecnologias
 
-## 🚀 Main Stack
+**Backend:** Java · Spring Boot · APIs REST · Maven  
+**Frontend:** React · JavaScript · TypeScript · HTML · CSS  
+**Dados:** PostgreSQL · MySQL · Supabase  
+**Ferramentas:** Docker · Git · GitHub · Linux · Postman · VS Code · IntelliJ IDEA
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,postgres,mysql,supabase,docker,git,github,maven,linux,postman,vscode,idea" />
-</p>
+**Estudando agora:** AWS e Kubernetes.
 
----
+### Como trabalho
 
-## 🛠 Currently Learning
+Código limpo · SOLID · Programação orientada a objetos · Arquitetura em camadas · Separação de responsabilidades · Padrões de projeto · Git Flow
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,kubernetes" />
-</p>
+### Atividade no GitHub
 
----
+<div align="center">
 
-## 🧠 Software Engineering
+<img height="165" alt="Estatísticas do GitHub de Otávio" src="https://github-readme-stats.vercel.app/api?username=otaviorodriguess&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" alt="Linguagens mais usadas no GitHub de Otávio" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviorodriguess&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
+<img width="100%" alt="Gráfico de contribuições de Otávio" src="https://github-readme-activity-graph.vercel.app/graph?username=otaviorodriguess&theme=tokyo-night&hide_border=true" />
 
-✔ Clean Code
+</div>
 
-✔ SOLID Principles
+### Cobrinha das contribuições
 
-✔ Layered Architecture
+<div align="center">
 
-✔ RESTful APIs
+<img width="100%" alt="Animação da cobrinha no gráfico de contribuições" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 
-✔ Design Patterns
-
-✔ Git Flow
-
-✔ Separation of Concerns
-
-✔ Object-Oriented Programming
-
-</p>
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=otaviorodriguess&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviorodriguess&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviorodriguess&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:otaviorodriguesbezerra71@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail"/>
-</a>
-</p>
+</div>
