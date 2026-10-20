@@ -1,52 +1,128 @@
 <div align="center">
 
-# Otávio Rodrigues Bezerra
+<img src="./assets/header.svg" width="100%" alt="Otávio Rodrigues — Full Stack Developer. Java, Spring Boot e React." />
 
-**Desenvolvedor Full Stack · Estudante de Engenharia da Computação**
+<br />
 
-Construindo aplicações web completas, de interfaces responsivas a serviços de backend.
+<a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="https://img.shields.io/badge/LinkedIn-VAMOS_CONVERSAR-64FFDA?style=for-the-badge&labelColor=111827" alt="Conversar no LinkedIn" /></a>
+<a href="mailto:otaviorodriguesbezerra71@gmail.com"><img src="https://img.shields.io/badge/EMAIL-ENTRE_EM_CONTATO-A78BFA?style=for-the-badge&labelColor=111827" alt="Enviar e-mail" /></a>
+<a href="https://github.com/otaviorodriguess?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-EXPLORAR_PROJETOS-93C5FD?style=for-the-badge&labelColor=111827&logo=github&logoColor=white" alt="Explorar meus projetos" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-rodrigues-bezerra)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:otaviorodriguesbezerra71@gmail.com)
+<br /><br />
+
+**Interfaces bem cuidadas. APIs bem estruturadas. Código que evolui.**
+
+Desenvolvedor Full Stack no Brasil e estudante de Engenharia da Computação.<br />
+Meu foco é conectar **React** a serviços em **Java e Spring Boot** para construir aplicações completas.
 
 </div>
+
+<br />
+
+## 🧩 &nbsp; Meu ecossistema
+
+<table>
+<tr>
+<td align="center" width="33%">
+<h3>01 · Backend</h3>
+<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Java, Spring e Maven" />
+<br /><br />
+<b>Java · Spring Boot · Maven</b><br />
+<sub>APIs REST e arquitetura em camadas</sub>
+<br /><br />
+</td>
+<td align="center" width="33%">
+<h3>02 · Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,ts,js&theme=dark" alt="React, TypeScript e JavaScript" />
+<br /><br />
+<b>React · TypeScript · JavaScript</b><br />
+<sub>Interfaces responsivas com HTML e CSS</sub>
+<br /><br />
+</td>
+<td align="center" width="33%">
+<h3>03 · Dados</h3>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" alt="PostgreSQL, MySQL e Supabase" />
+<br /><br />
+<b>PostgreSQL · MySQL · Supabase</b><br />
+<sub>Persistência e integração de dados</sub>
+<br /><br />
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>↗ Veja as ferramentas que fazem parte do meu dia a dia</b></summary>
+<br />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode,idea&theme=dark&perline=7" alt="Docker, Git, GitHub, Linux, Postman, VS Code e IntelliJ IDEA" />
+</p>
+<p align="center">Docker · Git · GitHub · Linux · Postman · VS Code · IntelliJ IDEA</p>
+</details>
+
+<br />
+
+## 🛰️ &nbsp; Em evolução
+
+<table>
+<tr>
+<td width="30%" align="center">
+<br />
+<img src="https://skillicons.dev/icons?i=aws,kubernetes&theme=dark" alt="AWS e Kubernetes" />
+<h3>Aprendendo agora</h3>
+<p>AWS &amp; Kubernetes</p>
+</td>
+<td width="70%">
+<h3>Engenharia por trás do código</h3>
+<p>Busco escrever código claro, escalável e fácil de manter, aplicando princípios de engenharia de software.</p>
+<p><code>Clean Code</code> <code>SOLID</code> <code>POO</code><br /><br /><code>Design Patterns</code> <code>Git Flow</code></p>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>↗ Conheça os princípios que orientam meu trabalho</b></summary>
+
+- **Responsabilidades claras:** separar interface, regras de negócio e persistência.
+- **Arquitetura em camadas:** organizar a aplicação para facilitar sua evolução.
+- **Código legível:** aplicar Clean Code e SOLID com atenção à manutenção.
+- **APIs REST:** criar interfaces consistentes entre frontend e backend.
+- **Versionamento:** organizar mudanças e colaboração com Git Flow.
+
+</details>
+
+<br />
+
+## 🐍 &nbsp; Um pouco de movimento
+
+<div align="center">
+
+<img width="100%" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha percorrendo um gráfico de contribuições" />
+
+<sub>A cobrinha continua por aqui.</sub>
+
+</div>
+
+<br />
+
+<details>
+<summary><b>📊 Abra para explorar minha atividade no GitHub</b></summary>
+<br />
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=otaviorodriguess&bg_color=0d1117&color=94a3b8&line=64ffda&point=a78bfa&area=true&hide_border=true" alt="Atividade de contribuições de Otávio no GitHub" />
+</p>
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=otaviorodriguess&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Otávio" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviorodriguess&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas nos repositórios de Otávio" />
+</p>
+</details>
+
+<br />
+
+<div align="center">
 
 ---
 
-### Sobre mim
-
-Sou desenvolvedor Full Stack no Brasil. Meu foco atual é criar aplicações com **Java, Spring Boot e React**, cuidando tanto da experiência na interface quanto da organização e manutenção do backend.
-
-Gosto de aplicar princípios de engenharia de software para escrever código claro, escalável e fácil de evoluir.
-
-### Tecnologias
-
-**Backend:** Java · Spring Boot · APIs REST · Maven  
-**Frontend:** React · JavaScript · TypeScript · HTML · CSS  
-**Dados:** PostgreSQL · MySQL · Supabase  
-**Ferramentas:** Docker · Git · GitHub · Linux · Postman · VS Code · IntelliJ IDEA
-
-**Estudando agora:** AWS e Kubernetes.
-
-### Como trabalho
-
-Código limpo · SOLID · Programação orientada a objetos · Arquitetura em camadas · Separação de responsabilidades · Padrões de projeto · Git Flow
-
-### Atividade no GitHub
-
-<div align="center">
-
-<img height="165" alt="Estatísticas do GitHub de Otávio" src="https://github-readme-stats.vercel.app/api?username=otaviorodriguess&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" alt="Linguagens mais usadas no GitHub de Otávio" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviorodriguess&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="100%" alt="Gráfico de contribuições de Otávio" src="https://github-readme-activity-graph.vercel.app/graph?username=otaviorodriguess&theme=tokyo-night&hide_border=true" />
-
-</div>
-
-### Cobrinha das contribuições
-
-<div align="center">
-
-<img width="100%" alt="Animação da cobrinha no gráfico de contribuições" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
+**Vamos transformar ideias em código?**<br />
+[LinkedIn](https://www.linkedin.com/in/otavio-rodrigues-bezerra) &nbsp; · &nbsp; [E-mail](mailto:otaviorodriguesbezerra71@gmail.com) &nbsp; · &nbsp; [Repositórios](https://github.com/otaviorodriguess?tab=repositories)
 
 </div>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Otávio Rodrigues, Full Stack Developer">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b2e"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#64ffda"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="19" fill="none" stroke="#253248"/>
+  <path d="M40 2h1120" stroke="url(#accent)" stroke-width="3"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <circle cx="54" cy="62" r="5" fill="#64ffda"><animate attributeName="opacity" values="1;.35;1" dur="3s" repeatCount="indefinite"/></circle>
+    <text x="70" y="67" font-size="13" font-weight="600" letter-spacing="3" fill="#64ffda">CODE. BUILD. EVOLVE.</text>
+    <text x="48" y="146" fill="#f1f5f9" font-size="55" font-weight="700" letter-spacing="-2">Otávio Rodrigues</text>
+    <text x="50" y="190" fill="#b9c6d8" font-size="25">Full Stack Developer</text>
+    <rect x="50" y="216" width="44" height="3" rx="1.5" fill="#64ffda"/>
+    <text x="50" y="256" fill="#93a4bd" font-size="16">Da experiência na interface à arquitetura do backend.</text>
+    <text x="50" y="309" fill="#64748b" font-size="13" letter-spacing="1">BRASIL  /  ENGENHARIA DA COMPUTAÇÃO</text>
+  </g>
+  <g transform="translate(735 60)">
+    <rect width="415" height="240" rx="12" fill="#0b1220" stroke="#2b3a50"/>
+    <path d="M0 40h415" stroke="#243247"/>
+    <circle cx="20" cy="21" r="5" fill="#fb7185"/><circle cx="38" cy="21" r="5" fill="#fbbf24"/><circle cx="56" cy="21" r="5" fill="#64ffda"/>
+    <g font-family="Consolas,monospace" font-size="15">
+      <text x="280" y="26" fill="#64748b" font-size="12">developer.ts</text>
+      <text x="24" y="78" fill="#a78bfa">const <tspan fill="#e2e8f0">developer = {</tspan></text>
+      <text x="44" y="111" fill="#93c5fd">backend: <tspan fill="#64ffda">["Java", "Spring"],</tspan></text>
+      <text x="44" y="144" fill="#93c5fd">frontend: <tspan fill="#64ffda">["React", "TS"],</tspan></text>
+      <text x="44" y="177" fill="#93c5fd">mindset: <tspan fill="#64ffda">"always learning"</tspan></text>
+      <text x="24" y="210" fill="#e2e8f0">};</text>
+      <rect x="48" y="196" width="8" height="17" fill="#64ffda"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+</svg>
