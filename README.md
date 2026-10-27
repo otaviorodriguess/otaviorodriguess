@@ -129,12 +129,12 @@ explorando:
 Ferramentas que uso para conectar interfaces, regras de negócio e dados.
 
 <p align="center">
-<img src="./assets/stack-backend.svg" width="49%" alt="Backend e APIs: Java, Spring Boot, Python, FastAPI, Spring Security e Maven" />
-<img src="./assets/stack-frontend.svg" width="49%" alt="Interfaces: React, TypeScript, Tailwind, JavaScript, HTML, CSS e Vite" />
+<img src="./assets/stack-backend.svg" width="440" alt="Backend e APIs: Java, Spring Boot, Python, FastAPI, Spring Security e Maven" />
+<img src="./assets/stack-frontend.svg" width="440" alt="Interfaces: React, TypeScript, Tailwind, JavaScript, HTML, CSS e Vite" />
 </p>
 <p align="center">
-<img src="./assets/stack-data.svg" width="49%" alt="Dados e nuvem: PostgreSQL, MySQL, Firebase, SQLite, Docker e Vercel" />
-<img src="./assets/stack-quality.svg" width="49%" alt="Qualidade e ferramentas: Git, Linux, Postman, Vitest, Playwright e IntelliJ" />
+<img src="./assets/stack-data.svg" width="440" alt="Dados e nuvem: PostgreSQL, MySQL, Firebase, SQLite, Docker e Vercel" />
+<img src="./assets/stack-quality.svg" width="440" alt="Qualidade e ferramentas: Git, Linux, Postman, Vitest, Playwright e IntelliJ" />
 </p>
 
 <details>
@@ -163,9 +163,9 @@ Ferramentas que uso para conectar interfaces, regras de negócio e dados.
 <img src="./assets/contact-banner.svg" width="100%" alt="Sua próxima ideia pode começar aqui. Vamos conversar sobre projetos, tecnologia e boas trocas de experiência." />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="./assets/contact-linkedin.svg" width="32%" alt="LinkedIn — vamos nos conectar" /></a>
-<a href="mailto:otaviorodriguesbezerra71@gmail.com"><img src="./assets/contact-email.svg" width="32%" alt="E-mail — envie sua ideia" /></a>
-<a href="https://github.com/otaviorodriguess?tab=repositories"><img src="./assets/contact-github.svg" width="32%" alt="GitHub — explore meus projetos" /></a>
+<a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="./assets/contact-linkedin.svg" width="280" alt="LinkedIn — vamos nos conectar" /></a>
+<a href="mailto:otaviorodriguesbezerra71@gmail.com"><img src="./assets/contact-email.svg" width="280" alt="E-mail — envie sua ideia" /></a>
+<a href="https://github.com/otaviorodriguess?tab=repositories"><img src="./assets/contact-github.svg" width="280" alt="GitHub — explore meus projetos" /></a>
 </p>
 
 <details>
