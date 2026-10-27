@@ -1,60 +1,69 @@
-<div align="center">
-
 <img src="./assets/devspace-hero.svg" width="100%" alt="Otávio Rodrigues — Full Stack Developer. Da primeira ideia ao último commit." />
 
-<br />
+<p><a href="#-o-desenvolvedor"><img src="./assets/nav-about.svg" width="19.2%" alt="Sobre mim" /></a><img src="./assets/contact-gap.svg" width="1%" height="1" alt="" /><a href="#-escolha-um-projeto"><img src="./assets/nav-projects.svg" width="19.2%" alt="Projetos" /></a><img src="./assets/contact-gap.svg" width="1%" height="1" alt="" /><a href="#-explore-minha-stack"><img src="./assets/nav-stack.svg" width="19.2%" alt="Stack" /></a><img src="./assets/contact-gap.svg" width="1%" height="1" alt="" /><a href="#-código-em-movimento"><img src="./assets/nav-activity.svg" width="19.2%" alt="Atividade" /></a><img src="./assets/contact-gap.svg" width="1%" height="1" alt="" /><a href="#-vamos-criar-algo"><img src="./assets/nav-contact.svg" width="19.2%" alt="Contato" /></a></p>
 
-<a href="#-o-desenvolvedor">◉ Sobre mim</a> &nbsp; ━ &nbsp; <a href="#-escolha-um-projeto">◈ Projetos</a> &nbsp; ━ &nbsp; <a href="#-explore-minha-stack">⌘ Stack</a> &nbsp; ━ &nbsp; <a href="#-código-em-movimento">◌ Atividade</a> &nbsp; ━ &nbsp; <a href="#-vamos-criar-algo">↗ Contato</a>
-
-<br /><br />
-
-**Olá, eu sou o Otávio — construo interfaces, APIs e o que conecta tudo.** 👋<br />
-Estudante de Engenharia da Computação, construindo aplicações com Java, Spring Boot e React.
-
-<br />
-
-<a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="https://img.shields.io/badge/LinkedIn-251936?style=for-the-badge&amp;logoColor=E9D5FF" alt="Conversar no LinkedIn" /></a>
-<a href="mailto:otaviorodriguesbezerra71@gmail.com"><img src="https://img.shields.io/badge/Email-251936?style=for-the-badge&amp;logo=gmail&amp;logoColor=E9D5FF" alt="Enviar e-mail" /></a>
-<a href="https://github.com/otaviorodriguess?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-251936?style=for-the-badge&amp;logo=github&amp;logoColor=E9D5FF" alt="Explorar repositórios" /></a>
-
-</div>
-
-<br />
+<picture>
+  <source media="(max-width: 767px)" srcset="./assets/intro-panel-mobile.svg" />
+  <img src="./assets/intro-panel.svg" width="100%" alt="Olá, eu sou o Otávio. Estudante de Engenharia da Computação no Brasil. Construo interfaces com React e TypeScript, APIs com Java e Spring Boot, persistência e integração de serviços." />
+</picture>
 
 ## ◉ O desenvolvedor
 
-Gosto de conectar as peças: uma interface que faz sentido, uma API bem organizada e os dados no lugar certo. Por aqui, cada projeto é uma oportunidade de construir algo útil e aprender com o processo.
+Gosto de entender como cada peça se conecta: a experiência de quem usa, as regras de negócio e os dados. Meus projetos são um espaço para transformar ideias em aplicações e aprofundar o que estudo.
+
+**Explore um pouco mais sobre mim:**
 
 <details>
-<summary><b>↳ Abrir meu arquivo de configuração</b></summary>
+<summary><b>🛠️ O que estou construindo</b></summary>
+
+<br />
+
+- **Produtos web:** interfaces e fluxos completos com React e TypeScript.
+- **APIs REST:** autenticação, regras de negócio e persistência com Java e Spring Boot.
+- **Ferramentas:** projetos para organizar rotinas e explorar dados do GitHub.
+
+[Experimentar o BelaHora ↗](https://agenda-estetica-phi.vercel.app) &nbsp; · &nbsp; [Explorar os projetos ↓](#-escolha-um-projeto)
+
+</details>
+
+<details>
+<summary><b>🌱 O que estou aprendendo</b></summary>
+
+<br />
+
+- **AWS e Kubernetes:** ampliar minha base em infraestrutura e deploy.
+- **Engenharia de software:** praticar separação de responsabilidades, arquitetura em camadas e testes.
+- **Inteligência artificial:** explorar integrações em aplicações e ferramentas.
+
+[Conhecer o Spring AI Chatbot ↗](https://github.com/otaviorodriguess/spring-ai-chatbot)
+
+</details>
+
+<details>
+<summary><b>⌘ Meu perfil em código</b></summary>
 
 ```yaml
 nome: Otávio Rodrigues
 formação: Engenharia da Computação
 base: Brasil
 
-construindo:
-  - APIs REST com Java e Spring Boot
-  - Interfaces com React e TypeScript
-  - Produtos e ferramentas para o dia a dia
+foco:
+  backend: [Java, Spring Boot, FastAPI]
+  frontend: [React, TypeScript, Tailwind CSS]
+  dados: [PostgreSQL, Firebase, SQLite]
 
-praticando:
-  - Separação de responsabilidades
-  - Arquitetura em camadas
-  - Testes e código legível
-
-aprendendo:
-  - AWS
-  - Kubernetes
-
-explorando:
-  - Inteligência artificial em aplicações
-  - Novas formas de transformar ideias em software
+princípios:
+  - Código legível
+  - Responsabilidades claras
+  - Aprender construindo
 ```
+
+[Conversar no LinkedIn ↗](https://www.linkedin.com/in/otavio-rodrigues-bezerra) &nbsp; · &nbsp; [Enviar um e-mail ↗](mailto:otaviorodriguesbezerra71@gmail.com)
 
 </details>
 
 <br />
+
 
 ## ◈ Escolha um projeto
 
