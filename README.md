@@ -126,67 +126,58 @@ explorando:
 
 ## ⌘ Explore minha stack
 
-Abra uma categoria para ver as ferramentas que fazem parte dos meus projetos.
+Ferramentas que uso para conectar interfaces, regras de negócio e dados.
 
-<details open>
-<summary><b>01 / Backend &amp; APIs</b></summary>
-<br />
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi&amp;theme=dark" height="44" alt="Java, Spring, Python e FastAPI" />
-<p>Java · Spring Boot · Spring Security · Python · FastAPI · Maven</p>
-</details>
-
-<details>
-<summary><b>02 / Interfaces &amp; experiência</b></summary>
-<br />
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,vite&amp;theme=dark" height="44" alt="React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS e Vite" />
-<p>React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS · Vite</p>
-</details>
+<p align="center">
+<img src="./assets/stack-backend.svg" width="49%" alt="Backend e APIs: Java, Spring Boot, Python, FastAPI, Spring Security e Maven" />
+<img src="./assets/stack-frontend.svg" width="49%" alt="Interfaces: React, TypeScript, Tailwind, JavaScript, HTML, CSS e Vite" />
+</p>
+<p align="center">
+<img src="./assets/stack-data.svg" width="49%" alt="Dados e nuvem: PostgreSQL, MySQL, Firebase, SQLite, Docker e Vercel" />
+<img src="./assets/stack-quality.svg" width="49%" alt="Qualidade e ferramentas: Git, Linux, Postman, Vitest, Playwright e IntelliJ" />
+</p>
 
 <details>
-<summary><b>03 / Dados &amp; nuvem</b></summary>
-<br />
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,docker&amp;theme=dark" height="44" alt="PostgreSQL, MySQL, SQLite, Firebase e Docker" />
-<p>PostgreSQL · MySQL · SQLite · Firebase · Docker · Vercel · Supabase<br />Spring Data JPA · SQLAlchemy</p>
+<summary><b>↳ Veja como essas tecnologias se conectam nos projetos</b></summary>
+
+| Área | Onde aplico |
+| :--- | :--- |
+| **Backend** | APIs REST, autenticação e regras de negócio com Spring Boot e FastAPI. |
+| **Interfaces** | Componentes, formulários e experiências web com React e TypeScript. |
+| **Persistência** | Spring Data JPA, SQLAlchemy, bancos relacionais e Firebase. |
+| **Qualidade** | Testes com Vitest e Playwright, verificação de APIs com Postman. |
+| **Outras ferramentas** | Supabase · GitHub · ESLint · Prettier · VS Code. |
+
+[Explorar os projetos que usam essas tecnologias ↗](#-escolha-um-projeto)
+
 </details>
 
-<details>
-<summary><b>04 / Qualidade &amp; ferramentas</b></summary>
 <br />
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vitest,idea&amp;theme=dark" height="44" alt="Git, GitHub, Linux, Postman, Vitest e IntelliJ IDEA" />
-<p>Git · GitHub · Linux · Postman · Vitest · Playwright · ESLint · Prettier · IntelliJ IDEA · VS Code</p>
-</details>
 
-<details>
-<summary><b>05 / Próximas descobertas</b></summary>
-<br />
-<img src="https://skillicons.dev/icons?i=aws,kubernetes&amp;theme=dark" height="44" alt="AWS e Kubernetes — tecnologias em estudo" />
-<p>Estudando AWS e Kubernetes para entender melhor infraestrutura e deploy.</p>
-</details>
+<img src="./assets/stack-learning.svg" width="100%" alt="Em aprendizado: AWS e Kubernetes, com foco em infraestrutura e deploy." />
 
 <br />
 
 ## ↗ Vamos criar algo?
 
-<div align="center">
+<img src="./assets/contact-banner.svg" width="100%" alt="Sua próxima ideia pode começar aqui. Vamos conversar sobre projetos, tecnologia e boas trocas de experiência." />
 
-**Uma ideia interessante começa com uma conversa.**
-
-<p>Projetos, tecnologia ou troca de experiências — você me encontra por aqui:</p>
-
-[LinkedIn](https://www.linkedin.com/in/otavio-rodrigues-bezerra) &nbsp; / &nbsp; [E-mail](mailto:otaviorodriguesbezerra71@gmail.com) &nbsp; / &nbsp; [GitHub](https://github.com/otaviorodriguess)
-
-<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="./assets/contact-linkedin.svg" width="32%" alt="LinkedIn — vamos nos conectar" /></a>
+<a href="mailto:otaviorodriguesbezerra71@gmail.com"><img src="./assets/contact-email.svg" width="32%" alt="E-mail — envie sua ideia" /></a>
+<a href="https://github.com/otaviorodriguess?tab=repositories"><img src="./assets/contact-github.svg" width="32%" alt="GitHub — explore meus projetos" /></a>
+</p>
 
 <details>
-<summary>◌ Ver atividade no GitHub</summary>
+<summary><b>◌ Acompanhe minha atividade no GitHub</b></summary>
 <br />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviorodriguess&amp;bg_color=161020&amp;color=c4b5fd&amp;line=c4b5fd&amp;point=f0abfc&amp;area=true&amp;hide_border=true" width="100%" alt="Atividade pública de Otávio no GitHub" />
 </details>
 
 <br />
 
-<sub>Feito de curiosidade, café e commits. ☕</sub><br />
+<div align="center">
+<sub>Otávio Rodrigues · Construindo, aprendendo e evoluindo.</sub><br />
 <sub>Referência de organização: <a href="https://github.com/iuricode/readme-template">readme-template / Iuri Silva</a></sub>
-
 </div>
 
