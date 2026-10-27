@@ -15,11 +15,43 @@ Java, Spring Boot e React como base. Curiosidade para ir além.
 <a href="https://github.com/otaviorodriguess?tab=repositories"><img src="./assets/projects.svg" width="170" height="44" alt="Explorar projetos" /></a>
 </p>
 
-[Projetos em destaque](#projetos-em-destaque) &nbsp; / &nbsp; [Tecnologias](#tecnologias) &nbsp; / &nbsp; [Sobre mim](#sobre-mim)
+[Projetos em destaque](#projetos-em-destaque) &nbsp; / &nbsp; [Minha stack](#minha-caixa-de-ferramentas) &nbsp; / &nbsp; [Sobre mim](#sobre-mim)
 
 </div>
 
 <br />
+
+## Olá, eu sou o Otávio 👋
+
+Gosto de transformar ideias em aplicações completas — da regra de negócio à experiência de quem usa.
+
+```java
+public record Desenvolvedor(
+    String nome,
+    String formacao,
+    String foco,
+    List<String> aprendendo
+) {
+    public static Desenvolvedor otavio() {
+        return new Desenvolvedor(
+            "Otávio Rodrigues",
+            "Engenharia da Computação",
+            "Java, Spring Boot e React",
+            List.of("AWS", "Kubernetes")
+        );
+    }
+}
+```
+
+<p>
+🎓 Estudante de Engenharia da Computação<br />
+🛠️ Construindo APIs, interfaces e ferramentas para o dia a dia<br />
+🌱 Aprendendo sobre cloud, arquitetura e deploy<br />
+💬 Vamos conversar sobre Java, React e ideias de projetos
+</p>
+
+<br />
+
 
 ## Projetos em destaque
 
@@ -71,26 +103,39 @@ Uma seleção do que venho construindo — de produtos para o dia a dia a APIs e
 
 <br />
 
-## Tecnologias
+## Minha caixa de ferramentas
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Backend</h3>
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=dark" height="42" alt="Java · Spring Boot · Spring Security · Python · FastAPI" />
+<p><sub>Java · Spring Boot · Spring Security · Python · FastAPI</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=dark" height="42" alt="React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS" />
+<p><sub>React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Dados e persistência</h3>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" height="42" alt="PostgreSQL · MySQL · SQLite · Firebase · JPA · SQLAlchemy" />
+<p><sub>PostgreSQL · MySQL · SQLite · Firebase · JPA · SQLAlchemy</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>Ferramentas e qualidade</h3>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postman,vitest,vite&theme=dark" height="42" alt="Docker · Git · Linux · Postman · Vitest · Vite · Playwright" />
+<p><sub>Docker · Git · Linux · Postman · Vitest · Vite · Playwright</sub></p>
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,ts,python,fastapi,postgres,docker&theme=dark" alt="Java, Spring, React, TypeScript, Python, FastAPI, PostgreSQL e Docker" />
-
-</div>
+<p align="center"><b>No radar de estudos</b><br /><br /><img src="https://skillicons.dev/icons?i=aws,kubernetes&theme=dark" height="42" alt="Aprendendo AWS e Kubernetes" /></p>
 
 <br />
 
-| Área | Meu ecossistema |
-| :--- | :--- |
-| **Backend** | Java · Spring Boot · Spring Security · Python · FastAPI |
-| **Frontend** | React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS · Vite |
-| **Dados** | PostgreSQL · MySQL · SQLite · Spring Data JPA · SQLAlchemy |
-| **Cloud e deploy** | Firebase · Vercel · Docker · Supabase |
-| **Qualidade** | Playwright · Vitest · Postman · ESLint · Prettier |
-| **Ferramentas** | Git · GitHub · Linux · Maven · IntelliJ IDEA · VS Code |
-
-<br />
 
 ## Sobre mim
 
@@ -103,14 +148,11 @@ Gosto de entender o caminho completo de uma aplicação: a experiência de quem 
 
 <br />
 
-<details>
-<summary><b>Atividade no GitHub</b></summary>
+## Meu ritmo no GitHub
 
 <br />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=otaviorodriguess&bg_color=0d1117&color=94a3b8&line=5eead4&point=93c5fd&area=true&hide_border=true" alt="Gráfico de contribuições de Otávio Rodrigues no GitHub" />
-
-</details>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=otaviorodriguess&bg_color=0d1117&color=94a3b8&line=5eead4&point=93c5fd&area_color=2dd4bf&area=true&hide_border=true" alt="Gráfico de contribuições de Otávio Rodrigues no GitHub" />
 
 <br />
 
@@ -126,3 +168,5 @@ Gosto de entender o caminho completo de uma aplicação: a experiência de quem 
 
 </div>
 
+
+<div align="center"><sub>Inspiração de estrutura: <a href="https://github.com/iuricode/readme-template">readme-template, por Iuri Silva</a> · Identidade visual personalizada para este perfil.</sub></div>
