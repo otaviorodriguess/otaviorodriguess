@@ -4,11 +4,11 @@
 
 <br />
 
-<a href="#-o-desenvolvedor">◉ Sobre mim</a> &nbsp; ━ &nbsp; <a href="#-escolha-um-projeto">◈ Projetos</a> &nbsp; ━ &nbsp; <a href="#-explore-minha-stack">⌘ Stack</a> &nbsp; ━ &nbsp; <a href="#-vamos-criar-algo">↗ Contato</a>
+<a href="#-o-desenvolvedor">◉ Sobre mim</a> &nbsp; ━ &nbsp; <a href="#-escolha-um-projeto">◈ Projetos</a> &nbsp; ━ &nbsp; <a href="#-explore-minha-stack">⌘ Stack</a> &nbsp; ━ &nbsp; <a href="#-código-em-movimento">◌ Atividade</a> &nbsp; ━ &nbsp; <a href="#-vamos-criar-algo">↗ Contato</a>
 
 <br /><br />
 
-**Olá, eu sou o Otávio. Pode entrar, explorar e abrir o código.** 👋<br />
+**Olá, eu sou o Otávio — construo interfaces, APIs e o que conecta tudo.** 👋<br />
 Estudante de Engenharia da Computação, construindo aplicações com Java, Spring Boot e React.
 
 <br />
@@ -58,13 +58,13 @@ explorando:
 
 ## ◈ Escolha um projeto
 
-**Clique em um cartão para abrir o código** ou expanda os detalhes para conhecer cada projeto.
+Escolha o que você quer explorar: um aplicativo em uso, uma API, uma ferramenta para desenvolvedores ou uma integração com IA.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/otaviorodriguess/belahora"><img src="./assets/devspace-belahora.svg" width="100%" alt="Abrir BelaHora — agenda para profissionais de estética" /></a>
-<p>Uma rotina de atendimentos mais organizada, no computador ou no celular.</p>
+<p>Uma rotina de atendimentos mais organizada, no computador ou no celular.</p><p><a href="https://agenda-estetica-phi.vercel.app"><b>▶ Experimentar o BelaHora</b></a> &nbsp; · &nbsp; <a href="https://github.com/otaviorodriguess/belahora">Código ↗</a></p>
 <details>
 <summary><b>↳ O que tem por dentro?</b></summary>
 <p>Agenda, catálogo de serviços, agendamento público, sincronização por conta e PWA.</p>
@@ -158,6 +158,34 @@ Ferramentas que uso para conectar interfaces, regras de negócio e dados.
 
 <br />
 
+## ◌ Código em movimento
+
+Uma visão do que venho construindo e explorando no GitHub.
+
+<!-- PROFILE:START -->
+<img src="./assets/profile-stats.svg" width="100%" alt="Contribuições, projetos públicos ativos, linguagens e estrelas de Otávio no GitHub" />
+
+<details>
+<summary><b>↳ Projetos movimentados recentemente</b></summary>
+
+| Projeto | Linguagem principal | Último push (UTC) |
+| :--- | :--- | :--- |
+| [belahora ↗](https://github.com/otaviorodriguess/belahora) | TypeScript | 27/10/2026 |
+| [otaviorodriguess.github.io ↗](https://github.com/otaviorodriguess/otaviorodriguess.github.io) | JavaScript | 29/09/2026 |
+| [privacy-score-api ↗](https://github.com/otaviorodriguess/privacy-score-api) | Java | 30/07/2026 |
+| [skill-map ↗](https://github.com/otaviorodriguess/skill-map) | Python | 26/07/2026 |
+
+</details>
+
+<br />
+
+<a href="https://github.com/otaviorodriguess?tab=overview"><img src="./assets/contribution-calendar.svg" width="100%" alt="Calendário de contribuições de Otávio: cada quadrado representa um dia dos últimos 12 meses" /></a>
+
+<sub>Este painel se atualiza diariamente com GitHub Actions. As linguagens representam a linguagem principal de cada projeto, sem classificação de domínio.</sub>
+<!-- PROFILE:END -->
+
+<br />
+
 ## ↗ Vamos criar algo?
 
 <img src="./assets/contact-banner.svg" width="100%" alt="Sua próxima ideia pode começar aqui. Vamos conversar sobre projetos, tecnologia e boas trocas de experiência." />
@@ -168,16 +196,12 @@ Ferramentas que uso para conectar interfaces, regras de negócio e dados.
 <a href="https://github.com/otaviorodriguess?tab=repositories"><img src="./assets/contact-github.svg" width="280" alt="GitHub — explore meus projetos" /></a>
 </p>
 
-<details>
-<summary><b>◌ Acompanhe minha atividade no GitHub</b></summary>
-<br />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviorodriguess&amp;bg_color=161020&amp;color=c4b5fd&amp;line=c4b5fd&amp;point=f0abfc&amp;area=true&amp;hide_border=true" width="100%" alt="Atividade pública de Otávio no GitHub" />
-</details>
+
 
 <br />
 
 <div align="center">
 <sub>Otávio Rodrigues · Construindo, aprendendo e evoluindo.</sub><br />
-<sub>Referência de organização: <a href="https://github.com/iuricode/readme-template">readme-template / Iuri Silva</a></sub>
+<sub>Referência de organização: <a href="https://github.com/iuricode/readme-template">readme-template / Iuri Silva</a> · <a href="https://dev.to/github/10-standout-github-profile-readmes-h2o">Standout GitHub READMEs</a></sub>
 </div>
 
