@@ -187,11 +187,7 @@ Uma visão do que venho construindo e explorando no GitHub.
 
 <img src="./assets/contact-banner.svg" width="100%" alt="Sua próxima ideia pode começar aqui. Vamos conversar sobre projetos, tecnologia e boas trocas de experiência." />
 
-<p align="center">
-<a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="./assets/contact-linkedin.svg" width="280" alt="LinkedIn — vamos nos conectar" /></a>
-<a href="mailto:otaviorodriguesbezerra71@gmail.com"><img src="./assets/contact-email.svg" width="280" alt="E-mail — envie sua ideia" /></a>
-<a href="https://github.com/otaviorodriguess?tab=repositories"><img src="./assets/contact-github.svg" width="280" alt="GitHub — explore meus projetos" /></a>
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="./assets/contact-linkedin.svg" width="32%" alt="LinkedIn — vamos nos conectar" /></a><img src="./assets/contact-gap.svg" width="2%" height="1" alt="" /><a href="mailto:otaviorodriguesbezerra71@gmail.com"><img src="./assets/contact-email.svg" width="32%" alt="E-mail — envie sua ideia" /></a><img src="./assets/contact-gap.svg" width="2%" height="1" alt="" /><a href="https://github.com/otaviorodriguess?tab=repositories"><img src="./assets/contact-github.svg" width="32%" alt="GitHub — explore meus projetos" /></a></p>
 
 
 
