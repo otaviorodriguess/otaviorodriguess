@@ -1,172 +1,192 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Otávio Rodrigues — desenvolvedor Full Stack. Java, Spring Boot e React." />
+<img src="./assets/devspace-hero.svg" width="100%" alt="Otávio Rodrigues — Full Stack Developer. Da primeira ideia ao último commit." />
 
 <br />
 
-**Do backend à interface, construindo aplicações que conectam ideias e pessoas.**
+<a href="#-o-desenvolvedor">◉ Sobre mim</a> &nbsp; ━ &nbsp; <a href="#-escolha-um-projeto">◈ Projetos</a> &nbsp; ━ &nbsp; <a href="#-explore-minha-stack">⌘ Stack</a> &nbsp; ━ &nbsp; <a href="#-vamos-criar-algo">↗ Contato</a>
 
-Estudante de Engenharia da Computação · Brasil<br />
-Java, Spring Boot e React como base. Curiosidade para ir além.
+<br /><br />
 
-<p>
-<a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="./assets/linkedin.svg" width="170" height="44" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:otaviorodriguesbezerra71@gmail.com"><img src="./assets/email.svg" width="170" height="44" alt="Enviar e-mail" /></a>&nbsp;
-<a href="https://github.com/otaviorodriguess?tab=repositories"><img src="./assets/projects.svg" width="170" height="44" alt="Explorar projetos" /></a>
-</p>
+**Olá, eu sou o Otávio. Pode entrar, explorar e abrir o código.** 👋<br />
+Estudante de Engenharia da Computação, construindo aplicações com Java, Spring Boot e React.
 
-[Projetos em destaque](#projetos-em-destaque) &nbsp; / &nbsp; [Minha stack](#minha-caixa-de-ferramentas) &nbsp; / &nbsp; [Sobre mim](#sobre-mim)
+<br />
+
+<a href="https://www.linkedin.com/in/otavio-rodrigues-bezerra"><img src="https://img.shields.io/badge/LinkedIn-251936?style=for-the-badge&amp;logoColor=E9D5FF" alt="Conversar no LinkedIn" /></a>
+<a href="mailto:otaviorodriguesbezerra71@gmail.com"><img src="https://img.shields.io/badge/Email-251936?style=for-the-badge&amp;logo=gmail&amp;logoColor=E9D5FF" alt="Enviar e-mail" /></a>
+<a href="https://github.com/otaviorodriguess?tab=repositories"><img src="https://img.shields.io/badge/Repositórios-251936?style=for-the-badge&amp;logo=github&amp;logoColor=E9D5FF" alt="Explorar repositórios" /></a>
 
 </div>
 
 <br />
 
-## Olá, eu sou o Otávio 👋
+## ◉ O desenvolvedor
 
-Gosto de transformar ideias em aplicações completas — da regra de negócio à experiência de quem usa.
-
-```java
-public record Desenvolvedor(
-    String nome,
-    String formacao,
-    String foco,
-    List<String> aprendendo
-) {
-    public static Desenvolvedor otavio() {
-        return new Desenvolvedor(
-            "Otávio Rodrigues",
-            "Engenharia da Computação",
-            "Java, Spring Boot e React",
-            List.of("AWS", "Kubernetes")
-        );
-    }
-}
-```
-
-<p>
-🎓 Estudante de Engenharia da Computação<br />
-🛠️ Construindo APIs, interfaces e ferramentas para o dia a dia<br />
-🌱 Aprendendo sobre cloud, arquitetura e deploy<br />
-💬 Vamos conversar sobre Java, React e ideias de projetos
-</p>
-
-<br />
-
-
-## Projetos em destaque
-
-Uma seleção do que venho construindo — de produtos para o dia a dia a APIs e ferramentas para desenvolvedores.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/otaviorodriguess/belahora"><img src="./assets/project-belahora.svg" width="100%" alt="BelaHora — produto web" /></a>
-<p>Uma agenda para profissionais de estética, com agendamento público, sincronização por conta e experiência instalável no celular.</p>
-<p><code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>PWA</code></p>
-<p><a href="https://github.com/otaviorodriguess/belahora"><b>Explorar código ↗</b></a> &nbsp; · &nbsp; <a href="https://agenda-estetica-phi.vercel.app">Conhecer aplicativo ↗</a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/otaviorodriguess/fluxo-financeiro"><img src="./assets/project-financeiro.svg" width="100%" alt="Fluxo Financeiro — backend" /></a>
-<p>API REST para organizar receitas e despesas, calcular o saldo e gerenciar usuários com autenticação JWT.</p>
-<p><code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>PostgreSQL</code></p>
-<p><a href="https://github.com/otaviorodriguess/fluxo-financeiro"><b>Explorar código ↗</b></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/otaviorodriguess/skill-map"><img src="./assets/project-skillmap.svg" width="100%" alt="Skill Map — developer tools" /></a>
-<p>Transforma sinais públicos do GitHub em um mapa de tecnologias, com radar visual, histórico e evidências por habilidade.</p>
-<p><code>Python</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>Docker</code></p>
-<p><a href="https://github.com/otaviorodriguess/skill-map"><b>Explorar código ↗</b></a></p>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/otaviorodriguess/spring-ai-chatbot"><img src="./assets/project-chatbot.svg" width="100%" alt="Spring AI Chatbot — inteligência artificial" /></a>
-<p>Um projeto para explorar inteligência artificial em aplicações Java, integrando Spring AI e OpenAI.</p>
-<p><code>Java</code> <code>Spring AI</code> <code>OpenAI</code> <code>Thymeleaf</code></p>
-<p><a href="https://github.com/otaviorodriguess/spring-ai-chatbot"><b>Explorar código ↗</b></a></p>
-</td>
-</tr>
-</table>
+Gosto de conectar as peças: uma interface que faz sentido, uma API bem organizada e os dados no lugar certo. Por aqui, cada projeto é uma oportunidade de construir algo útil e aprender com o processo.
 
 <details>
-<summary><b>Mais projetos para explorar</b></summary>
+<summary><b>↳ Abrir meu arquivo de configuração</b></summary>
 
-<br />
+```yaml
+nome: Otávio Rodrigues
+formação: Engenharia da Computação
+base: Brasil
 
-| Projeto | O que você encontra |
-| :--- | :--- |
-| [Eclipse of Eternia](https://github.com/otaviorodriguess/eclipse-of-eternia) | React, TypeScript, Phaser e Spring Boot |
-| [RocketScope](https://github.com/otaviorodriguess/rocketscope-fullstack) | React, Leaflet, Spring Boot e Caffeine |
-| [Event API](https://github.com/otaviorodriguess/event-api-javalin) | Java, Javalin, SQLite e Jackson |
+construindo:
+  - APIs REST com Java e Spring Boot
+  - Interfaces com React e TypeScript
+  - Produtos e ferramentas para o dia a dia
+
+praticando:
+  - Separação de responsabilidades
+  - Arquitetura em camadas
+  - Testes e código legível
+
+aprendendo:
+  - AWS
+  - Kubernetes
+
+explorando:
+  - Inteligência artificial em aplicações
+  - Novas formas de transformar ideias em software
+```
 
 </details>
 
 <br />
 
-## Minha caixa de ferramentas
+## ◈ Escolha um projeto
+
+**Clique em um cartão para abrir o código** ou expanda os detalhes para conhecer cada projeto.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi&theme=dark" height="42" alt="Java · Spring Boot · Spring Security · Python · FastAPI" />
-<p><sub>Java · Spring Boot · Spring Security · Python · FastAPI</sub></p>
+<a href="https://github.com/otaviorodriguess/belahora"><img src="./assets/devspace-belahora.svg" width="100%" alt="Abrir BelaHora — agenda para profissionais de estética" /></a>
+<p>Uma rotina de atendimentos mais organizada, no computador ou no celular.</p>
+<details>
+<summary><b>↳ O que tem por dentro?</b></summary>
+<p>Agenda, catálogo de serviços, agendamento público, sincronização por conta e PWA.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>Vercel</code></p>
+<p><a href="https://agenda-estetica-phi.vercel.app"><b>Experimentar aplicativo ↗</b></a></p>
+</details>
+<br />
 </td>
 <td width="50%" valign="top">
-<h3>Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&theme=dark" height="42" alt="React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS" />
-<p><sub>React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS</sub></p>
+<a href="https://github.com/otaviorodriguess/fluxo-financeiro"><img src="./assets/devspace-financeiro.svg" width="100%" alt="Abrir Fluxo Financeiro — API de controle financeiro" /></a>
+<p>Receitas, despesas e saldo reunidos em uma API com autenticação JWT.</p>
+<details>
+<summary><b>↳ O que tem por dentro?</b></summary>
+<p>Gerenciamento de usuários, registro de transações e cálculo de saldo com arquitetura em camadas.</p>
+<p><code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>PostgreSQL</code></p>
+<p><a href="https://github.com/otaviorodriguess/fluxo-financeiro#-endpoints"><b>Explorar endpoints ↗</b></a></p>
+</details>
+<br />
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>Dados e persistência</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&theme=dark" height="42" alt="PostgreSQL · MySQL · SQLite · Firebase · JPA · SQLAlchemy" />
-<p><sub>PostgreSQL · MySQL · SQLite · Firebase · JPA · SQLAlchemy</sub></p>
+<a href="https://github.com/otaviorodriguess/skill-map"><img src="./assets/devspace-skillmap.svg" width="100%" alt="Abrir Skill Map — mapa de tecnologias do GitHub" /></a>
+<p>Um mapa de habilidades construído a partir de evidências públicas do GitHub.</p>
+<details>
+<summary><b>↳ O que tem por dentro?</b></summary>
+<p>Radar visual, evidências por tecnologia, ranking de repositórios e histórico local de análises.</p>
+<p><code>Python</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>Docker</code></p>
+<p><a href="https://github.com/otaviorodriguess/skill-map#como-a-pontuação-funciona"><b>Entender a pontuação ↗</b></a></p>
+</details>
+<br />
 </td>
 <td width="50%" valign="top">
-<h3>Ferramentas e qualidade</h3>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,postman,vitest,vite&theme=dark" height="42" alt="Docker · Git · Linux · Postman · Vitest · Vite · Playwright" />
-<p><sub>Docker · Git · Linux · Postman · Vitest · Vite · Playwright</sub></p>
+<a href="https://github.com/otaviorodriguess/spring-ai-chatbot"><img src="./assets/devspace-chatbot.svg" width="100%" alt="Abrir Spring AI Chatbot — Java e inteligência artificial" /></a>
+<p>Um espaço para explorar conversas com IA dentro do ecossistema Java.</p>
+<details>
+<summary><b>↳ O que tem por dentro?</b></summary>
+<p>Integração de Spring AI com OpenAI e interface com Thymeleaf.</p>
+<p><code>Java</code> <code>Spring AI</code> <code>OpenAI</code> <code>Thymeleaf</code></p>
+<p><a href="https://github.com/otaviorodriguess/spring-ai-chatbot"><b>Conhecer o projeto ↗</b></a></p>
+</details>
+<br />
 </td>
 </tr>
 </table>
 
-<p align="center"><b>No radar de estudos</b><br /><br /><img src="https://skillicons.dev/icons?i=aws,kubernetes&theme=dark" height="42" alt="Aprendendo AWS e Kubernetes" /></p>
+<details>
+<summary><b>＋ Mais caminhos para explorar</b></summary>
+
+| Projeto | Tecnologias |
+| :--- | :--- |
+| [Eclipse of Eternia ↗](https://github.com/otaviorodriguess/eclipse-of-eternia) | React · TypeScript · Phaser · Spring Boot |
+| [RocketScope ↗](https://github.com/otaviorodriguess/rocketscope-fullstack) | React · Leaflet · Spring Boot · Caffeine |
+| [Event API ↗](https://github.com/otaviorodriguess/event-api-javalin) | Java · Javalin · SQLite · Jackson |
+
+</details>
 
 <br />
 
+## ⌘ Explore minha stack
 
-## Sobre mim
+Abra uma categoria para ver as ferramentas que fazem parte dos meus projetos.
 
-Gosto de entender o caminho completo de uma aplicação: a experiência de quem usa, as regras de negócio e os dados que sustentam tudo.
+<details open>
+<summary><b>01 / Backend &amp; APIs</b></summary>
+<br />
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi&amp;theme=dark" height="44" alt="Java, Spring, Python e FastAPI" />
+<p>Java · Spring Boot · Spring Security · Python · FastAPI · Maven</p>
+</details>
 
-- **Construindo:** interfaces com React e APIs com Java e Spring Boot.
-- **Praticando:** código legível, separação de responsabilidades, arquitetura em camadas e APIs REST.
-- **Aprendendo:** AWS e Kubernetes para ampliar minha base em infraestrutura e deploy.
-- **Explorando:** inteligência artificial aplicada a produtos e ferramentas para desenvolvedores.
+<details>
+<summary><b>02 / Interfaces &amp; experiência</b></summary>
+<br />
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,vite&amp;theme=dark" height="44" alt="React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS e Vite" />
+<p>React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS · Vite</p>
+</details>
+
+<details>
+<summary><b>03 / Dados &amp; nuvem</b></summary>
+<br />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,docker&amp;theme=dark" height="44" alt="PostgreSQL, MySQL, SQLite, Firebase e Docker" />
+<p>PostgreSQL · MySQL · SQLite · Firebase · Docker · Vercel · Supabase<br />Spring Data JPA · SQLAlchemy</p>
+</details>
+
+<details>
+<summary><b>04 / Qualidade &amp; ferramentas</b></summary>
+<br />
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vitest,idea&amp;theme=dark" height="44" alt="Git, GitHub, Linux, Postman, Vitest e IntelliJ IDEA" />
+<p>Git · GitHub · Linux · Postman · Vitest · Playwright · ESLint · Prettier · IntelliJ IDEA · VS Code</p>
+</details>
+
+<details>
+<summary><b>05 / Próximas descobertas</b></summary>
+<br />
+<img src="https://skillicons.dev/icons?i=aws,kubernetes&amp;theme=dark" height="44" alt="AWS e Kubernetes — tecnologias em estudo" />
+<p>Estudando AWS e Kubernetes para entender melhor infraestrutura e deploy.</p>
+</details>
 
 <br />
 
-## Meu ritmo no GitHub
-
-<br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=otaviorodriguess&bg_color=0d1117&color=94a3b8&line=5eead4&point=93c5fd&area_color=2dd4bf&area=true&hide_border=true" alt="Gráfico de contribuições de Otávio Rodrigues no GitHub" />
-
-<br />
-
----
+## ↗ Vamos criar algo?
 
 <div align="center">
 
-### Uma boa conversa pode virar um bom projeto.
+**Uma ideia interessante começa com uma conversa.**
 
-[Vamos conversar no LinkedIn](https://www.linkedin.com/in/otavio-rodrigues-bezerra) &nbsp; · &nbsp; [Envie um e-mail](mailto:otaviorodriguesbezerra71@gmail.com)
+<p>Projetos, tecnologia ou troca de experiências — você me encontra por aqui:</p>
 
-<sub>Otávio Rodrigues · Java, Spring Boot &amp; React</sub>
+[LinkedIn](https://www.linkedin.com/in/otavio-rodrigues-bezerra) &nbsp; / &nbsp; [E-mail](mailto:otaviorodriguesbezerra71@gmail.com) &nbsp; / &nbsp; [GitHub](https://github.com/otaviorodriguess)
+
+<br />
+
+<details>
+<summary>◌ Ver atividade no GitHub</summary>
+<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviorodriguess&amp;bg_color=161020&amp;color=c4b5fd&amp;line=c4b5fd&amp;point=f0abfc&amp;area=true&amp;hide_border=true" width="100%" alt="Atividade pública de Otávio no GitHub" />
+</details>
+
+<br />
+
+<sub>Feito de curiosidade, café e commits. ☕</sub><br />
+<sub>Referência de organização: <a href="https://github.com/iuricode/readme-template">readme-template / Iuri Silva</a></sub>
 
 </div>
 
-
-<div align="center"><sub>Inspiração de estrutura: <a href="https://github.com/iuricode/readme-template">readme-template, por Iuri Silva</a> · Identidade visual personalizada para este perfil.</sub></div>

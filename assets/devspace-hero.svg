@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-label="Otávio Rodrigues — laboratório de ideias e código">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#171225"/><stop offset="1" stop-color="#0d0b14"/></linearGradient><linearGradient id="purple"><stop stop-color="#c4b5fd"/><stop offset="1" stop-color="#f0abfc"/></linearGradient><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#b8a3dc" opacity=".1"/></pattern></defs>
+<rect width="1200" height="500" rx="20" fill="url(#bg)"/><rect width="1200" height="500" rx="20" fill="url(#dots)"/>
+<path d="M0 60h1200M0 440h1200" stroke="#352840"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="40" y="37" fill="#c4b5fd" font-size="14" font-weight="700" letter-spacing="3">OR / DEV SPACE</text><text x="948" y="37" fill="#9f8eb6" font-size="12" letter-spacing="2">BRASIL · FULL STACK</text>
+<text x="48" y="115" fill="#c4b5fd" font-size="13" letter-spacing="4">IDEIAS EM CONSTRUÇÃO CONSTANTE</text>
+<text x="43" y="200" fill="#faf5ff" font-size="80" font-weight="750" letter-spacing="-4">Otávio</text><text x="43" y="282" fill="url(#purple)" font-size="80" font-weight="750" letter-spacing="-4">Rodrigues.</text>
+<text x="48" y="327" fill="#c2b5d4" font-size="21">Da primeira ideia ao último commit.</text>
+<rect x="48" y="358" width="274" height="38" rx="19" fill="#271b37" stroke="#58406e"/><text x="68" y="383" fill="#eadcff" font-size="14">JAVA  /  SPRING BOOT  /  REACT</text>
+<text x="40" y="476" fill="#a89ab9" font-size="13">ENGENHARIA DA COMPUTAÇÃO</text><text x="896" y="476" fill="#a89ab9" font-size="13">CRIAR · APRENDER · EVOLUIR</text>
+</g>
+<g transform="translate(728 116)">
+<path d="m0 77 178-64 199 76-178 68Z" fill="#241635" stroke="#a78bfa"/><path d="m0 77 199 80v106L0 183Z" fill="#171020" stroke="#614779"/><path d="m199 157 178-68v106l-178 68Z" fill="#30203e" stroke="#8964aa"/>
+<path d="m27 128 143 57M27 150l103 41" stroke="#8c65ad" stroke-width="3"/>
+<path d="m232 181 109-42m-109 65 109-42" stroke="#be95e0" stroke-width="3"/>
+<path d="m85 77 37-14m-37 14 37 14m91-13 38 15-38 13m-41-56-21 63" stroke="#e9d5ff" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -9;0 0" dur="5s" repeatCount="indefinite"/>
+<rect x="239" y="-35" width="122" height="40" rx="9" fill="#22172f" stroke="#a78bfa"/><text x="258" y="-9" font-family="Consolas,monospace" font-size="15" fill="#e9d5ff">git commit</text>
+<circle cx="25" cy="15" r="12" fill="#d8b4fe"/><path d="M25-6V36M4 15h42" stroke="#d8b4fe" stroke-width="2"/>
+</g></g></svg>
