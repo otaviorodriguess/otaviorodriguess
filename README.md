@@ -28,13 +28,13 @@ Uma seleção do que venho construindo — de produtos para o dia a dia a APIs e
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>01 &nbsp; BelaHora</h3>
+<a href="https://github.com/otaviorodriguess/belahora"><img src="./assets/project-belahora.svg" width="100%" alt="BelaHora — produto web" /></a>
 <p>Uma agenda para profissionais de estética, com agendamento público, sincronização por conta e experiência instalável no celular.</p>
 <p><code>React</code> <code>TypeScript</code> <code>Firebase</code> <code>PWA</code></p>
 <p><a href="https://github.com/otaviorodriguess/belahora"><b>Explorar código ↗</b></a> &nbsp; · &nbsp; <a href="https://agenda-estetica-phi.vercel.app">Conhecer aplicativo ↗</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>02 &nbsp; Fluxo Financeiro</h3>
+<a href="https://github.com/otaviorodriguess/fluxo-financeiro"><img src="./assets/project-financeiro.svg" width="100%" alt="Fluxo Financeiro — backend" /></a>
 <p>API REST para organizar receitas e despesas, calcular o saldo e gerenciar usuários com autenticação JWT.</p>
 <p><code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>PostgreSQL</code></p>
 <p><a href="https://github.com/otaviorodriguess/fluxo-financeiro"><b>Explorar código ↗</b></a></p>
@@ -42,13 +42,13 @@ Uma seleção do que venho construindo — de produtos para o dia a dia a APIs e
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>03 &nbsp; Skill Map</h3>
+<a href="https://github.com/otaviorodriguess/skill-map"><img src="./assets/project-skillmap.svg" width="100%" alt="Skill Map — developer tools" /></a>
 <p>Transforma sinais públicos do GitHub em um mapa de tecnologias, com radar visual, histórico e evidências por habilidade.</p>
 <p><code>Python</code> <code>FastAPI</code> <code>SQLAlchemy</code> <code>Docker</code></p>
 <p><a href="https://github.com/otaviorodriguess/skill-map"><b>Explorar código ↗</b></a></p>
 </td>
 <td width="50%" valign="top">
-<h3>04 &nbsp; Spring AI Chatbot</h3>
+<a href="https://github.com/otaviorodriguess/spring-ai-chatbot"><img src="./assets/project-chatbot.svg" width="100%" alt="Spring AI Chatbot — inteligência artificial" /></a>
 <p>Um projeto para explorar inteligência artificial em aplicações Java, integrando Spring AI e OpenAI.</p>
 <p><code>Java</code> <code>Spring AI</code> <code>OpenAI</code> <code>Thymeleaf</code></p>
 <p><a href="https://github.com/otaviorodriguess/spring-ai-chatbot"><b>Explorar código ↗</b></a></p>
