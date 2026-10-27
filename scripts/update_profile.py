@@ -62,7 +62,7 @@ def main():
     for i, (number, label, note) in enumerate(values):
         x = 30 + i * 270
         if i:
-            body += f'<path d="M{x-18}58v94" stroke="#392d48"/>'
+            body += f'<path d="M{x-18} 58v94" stroke="#392d48"/>'
         body += (
             f'<text x="{x}" y="99" font-size="43" font-weight="700" fill="#f5efff">{number}</text>'
             f'<text x="{x}" y="127" font-size="11" letter-spacing="1.5" fill="#c4b5fd">{label}</text>'
