@@ -128,14 +128,11 @@ Escolha o que você quer explorar: um aplicativo em uso, uma API, uma ferramenta
 
 Ferramentas que uso para conectar interfaces, regras de negócio e dados.
 
-<p align="center">
-<img src="./assets/stack-backend.svg" width="440" alt="Backend e APIs: Java, Spring Boot, Python, FastAPI, Spring Security e Maven" />
-<img src="./assets/stack-frontend.svg" width="440" alt="Interfaces: React, TypeScript, Tailwind, JavaScript, HTML, CSS e Vite" />
-</p>
-<p align="center">
-<img src="./assets/stack-data.svg" width="440" alt="Dados e nuvem: PostgreSQL, MySQL, Firebase, SQLite, Docker e Vercel" />
-<img src="./assets/stack-quality.svg" width="440" alt="Qualidade e ferramentas: Git, Linux, Postman, Vitest, Playwright e IntelliJ" />
-</p>
+<picture>
+  <source media="(max-width: 767px)" srcset="./assets/stack-grid-mobile.svg" />
+  <img src="./assets/stack-grid.svg" width="100%" alt="Tecnologias organizadas em quatro áreas: Backend e APIs; Interfaces e experiência; Dados e nuvem; Qualidade e ferramentas." />
+</picture>
+
 
 <details>
 <summary><b>↳ Veja como essas tecnologias se conectam nos projetos</b></summary>
